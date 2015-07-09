@@ -2,8 +2,9 @@
 /**
  * Plugin Name: Recent Posts Shortcode
  * Plugin URI: http://www.phil-hudson.com/recent-posts-shortcode-wordpress-plugin/
- * Description: A simple, open-source plugin to return your most recent posts via a shortcode.
+ * Description: A simple, open-source plugin to return your most recent posts via a shortcode. Use on any post or page: [recentPosts amountOfPosts="2"]. For more details please see: http://phil-hudson.com/recent-posts-shortcode-wordpress-plugin/
  * Version: 0.1
+ * Stable: 4.2.2
  * Author: Phil Hudson
  * Author URI: http://www.phil-hudson.com
  * License: GPL12
